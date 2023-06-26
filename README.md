@@ -1,5 +1,5 @@
-### Constant Folding and Constant Propagation LLVM Pass
-# William Dinauer, Dartmouth CS57, Spring 2022
+# Constant Folding and Constant Propagation LLVM Pass
+## William Dinauer, Dartmouth CS57, Spring 2022
 
 "foldoptimize.sh" is used to optimize unoptimized IR code
 To run a test, run the command
